@@ -1,4 +1,4 @@
-package com.loiane.estruturadeadados.vetor;
+package com.enzo.estruturadeadados.vetor;
 
 public class Lista <T> {
     private T [] elementos;
@@ -139,3 +139,4 @@ public class Lista <T> {
         return s.toString();
     }
 }
+
